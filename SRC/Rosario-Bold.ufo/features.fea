@@ -1,0 +1,7 @@
+feature liga {
+# Standard Ligatures
+ # Latin
+    sub f i by fi;
+    sub f l by fl;
+} liga;
+
