@@ -1,4 +1,11 @@
 {
+classes = (
+{
+automatic = 1;
+code = "A Aacute Acircumflex Adieresis Agrave Aring Atilde AE B C Ccedilla D Eth E Eacute Ecircumflex Edieresis Egrave F G H I Iacute Icircumflex Idieresis Igrave J K L Lslash M N Ntilde O Oacute Ocircumflex Odieresis Ograve Oslash Otilde OE P Thorn Q R S Scaron T U Uacute Ucircumflex Udieresis Ugrave V W X Y Yacute Ydieresis Z Zcaron Delta Omega";
+name = Uppercase;
+}
+);
 copyright = "Copyright (c) 2011, 2015 Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)";
 customParameters = (
 {
@@ -31,14 +38,47 @@ value = (
 );
 }
 );
-date = "2015-02-06 22:40:50 +0000";
+date = "2015-02-18 04:12:29 +0000";
 designer = "Hector Gatti";
 designerURL = "http://www.gattistudio.com.ar";
 familyName = "Rosario";
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;\012languagesystem grek dflt;\012languagesystem latn dflt;\012";
+name = Languagesystems;
+}
+);
 features = (
 {
-code = "# Standard Ligatures\012 # Latin\012    sub f i by fi;\012    sub f l by fl;\012";
+automatic = 1;
+code = "feature sups;\012feature frac;\012feature ordn;\012";
+name = aalt;
+},
+{
+automatic = 1;
+code = "sub one by onesuperior;\012sub two by twosuperior;\012sub three by threesuperior;\012";
+name = sups;
+},
+{
+automatic = 1;
+code = "sub one slash four by onequarter;\012sub one slash two by onehalf;\012sub three slash four by threequarters;\012";
+name = frac;
+},
+{
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;\012sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;\012";
+name = ordn;
+},
+{
+automatic = 1;
+code = "sub f i by fi;\012sub f l by fl;\012";
 name = liga;
+},
+{
+automatic = 1;
+code = "pos @Uppercase <5 0 10 0>;\012";
+name = cpsp;
 }
 );
 fontMaster = (
@@ -105,7 +145,7 @@ horizontalStems = (
 69
 );
 id = UUID0;
-italicAngle = 7.5;
+italicAngle = 8;
 verticalStems = (
 82,
 90
@@ -176,7 +216,7 @@ horizontalStems = (
 95
 );
 id = "D85D3C93-227B-4B8E-AED6-B444EF8D585A";
-italicAngle = 7.5;
+italicAngle = 8;
 verticalStems = (
 117,
 129
@@ -28226,6 +28266,7 @@ interpolationWeight = 117;
 isBold = 1;
 isItalic = 1;
 name = "Bold Italic";
+weightClass = Bold;
 }
 );
 kerning = {
