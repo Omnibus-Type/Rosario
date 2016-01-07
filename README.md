@@ -50,6 +50,11 @@ elegant, ideal for magazines and academic journals.
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
+**6 Jan 2016 (Dave Crossland) Rosario  v1.004**
+- Bold Italic GSUB error fixed
+- name table mac-encoded items removed
+- Regular name ID4 fixed
+
 **6 Feb 2015 (Omnibus-Type) Rosario  v1.001**
 - New woff woff2 and eot formats
 - No change to the outlines or the TTF Adobe TypeKit fonts
