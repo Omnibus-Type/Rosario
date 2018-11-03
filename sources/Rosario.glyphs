@@ -47552,6 +47552,7 @@ interpolationWidth = 5;
 instanceInterpolations = {
 "0AB1FC3A-51B3-4F8E-BD9F-BEF828131012" = 1;
 };
+isBold = 1;
 name = Bold;
 weightClass = Bold;
 }

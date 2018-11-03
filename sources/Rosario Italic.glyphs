@@ -49738,6 +49738,7 @@ interpolationWidth = 5;
 instanceInterpolations = {
 "C7717117-F750-4912-BA39-B64C3F969EBE" = 1;
 };
+isItalic = 1;
 name = Italic;
 },
 {
@@ -49755,6 +49756,8 @@ interpolationWidth = 5;
 instanceInterpolations = {
 "38588886-3B3E-4A1D-B58B-01CA69B4ACA2" = 1;
 };
+isBold = 1;
+isItalic = 1;
 name = "Bold Italic";
 weightClass = Bold;
 }
