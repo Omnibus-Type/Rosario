@@ -13,7 +13,7 @@ Adobe TypeKit in May 2013.
 
 ![Sample of Rosario.](SRC/Rosario.jpg "Rosario")
 
-####Rosario contains:
+#### Rosario contains:
 * regular/italic
 * bold/bolditalic
 
@@ -21,7 +21,7 @@ To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
 ### Designer
 
-* Hector Gatti
+* Héctor Gatti
 
 ### License
 
@@ -76,7 +76,7 @@ elegant, ideal for magazines and academic journals.
 If you make modifications be sure to add your name (N), email (E), web-address
 (if you have one) (W) and description (D). This list is in alphabetical order.
 
-**N:** **Hetor Gatti**  
+**N:** **Héctor Gatti**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Designer  
