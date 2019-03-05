@@ -11,7 +11,8 @@ the designer, Héctor Gatti. Rosario was initially developed for private
 use in 2003 and improved its hinting and other technical optimizations by 
 Adobe TypeKit in May 2013.
 
-![Sample of Rosario.](SRC/Rosario.jpg "Rosario")
+![Sample of Rosario.](sources/Rosario-01.png "Rosario")
+![Sample of Rosario.](sources/Rosario-02.png "Rosario")
 
 #### Rosario contains:
 * regular/italic
