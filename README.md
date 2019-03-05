@@ -13,7 +13,7 @@ Adobe TypeKit in May 2013.
 
 ![Sample of Rosario.](SRC/Rosario.jpg "Rosario")
 
-####Rosario contains:
+#### Rosario contains:
 * regular/italic
 * bold/bolditalic
 
