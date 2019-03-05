@@ -21,11 +21,11 @@ To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
 ### Designer
 
-* Hector Gatti
+* Héctor Gatti
 
 ### License
 
-Copyright (c) 2003, 2011-2013, 2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)
+Copyright (c) 2019, Omnibus-Type (www.omnibus-type.com | omnibus.type@gmail.com)
 
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
@@ -38,17 +38,21 @@ This information should be distributed along with the Rosario fonts and any deri
 ### Basic Font Information
 
 Rosario is the name of the city of its type designer, 
-Hector Gatti. This is a new typeface of classic proportions, 
+Héctor Gatti. This is a new typeface of classic proportions, 
 subtle contrast and soft endings. Carefully produced, 
 elegant, ideal for magazines and academic journals.
 
 ### Rosario is a typeface family that supports Unicode language range: 
 
-* Basic Latin 				U+0020-U+007E
+* Basic Latin 			U+0020-U+007E
 * Latin-1 Supplement 		U+00A0-U+00FF
 
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
+
+**31 October (Omnibus-Type) 2018 Rosario v1.005**
+- Updated to GF Latin Plus set
+- Supports 219 Latin languages used in 212 countries
 
 **6 Jan 2016 (Dave Crossland) Rosario  v1.004**
 - Bold Italic GSUB error fixed
@@ -64,11 +68,11 @@ elegant, ideal for magazines and academic journals.
 - No change to outlines
 - Improved hinting and other technical optimizations
 
-**30 Aug 2011 (Hector Gatti) Rosario  v1.002**
+**30 Aug 2011 (Héctor Gatti) Rosario  v1.002**
 - Updated Regular
 - Initial release of Italic style
 
-**12 Jul 2011 (Hector Gatti) Rosario  v1.001**
+**12 Jul 2011 (Héctor Gatti) Rosario  v1.001**
 - Initial release under SIL Open Font License
 
 ### Acknowledgements
@@ -76,7 +80,7 @@ elegant, ideal for magazines and academic journals.
 If you make modifications be sure to add your name (N), email (E), web-address
 (if you have one) (W) and description (D). This list is in alphabetical order.
 
-**N:** **Hetor Gatti**  
+**N:** **Héctor Gatti**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Designer  
