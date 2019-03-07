@@ -15,8 +15,10 @@ Adobe TypeKit in May 2013.
 ![Sample of Rosario.](sources/Rosario-02.png "Rosario")
 
 #### Rosario contains:
-* regular/italic
-* bold/bolditalic
+* light / light italic
+* regular / italic
+* semibold / semibold italic
+* bold / bold italic
 
 To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
@@ -52,8 +54,10 @@ elegant, ideal for magazines and academic journals.
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
 **31 October (Omnibus-Type) 2018 Rosario v1.005**
+- New weights light, light italic, semibold and semibold italic
 - Updated to GF Latin Plus set
 - Supports 219 Latin languages used in 212 countries
+
 
 **6 Jan 2016 (Dave Crossland) Rosario  v1.004**
 - Bold Italic GSUB error fixed
