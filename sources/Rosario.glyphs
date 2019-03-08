@@ -1,8 +1,5 @@
 {
-.appVersion = "1216";
-DisplayStrings = (
-"/Tbar"
-);
+.appVersion = "1192";
 classes = (
 {
 automatic = 1;
@@ -49,7 +46,7 @@ nine.numr";
 name = numr;
 }
 );
-copyright = "Copyright (c) 2019, The Rosario Project Authors (https://github.com/Omnibus-Type/Rosario)";
+copyright = "Copyright 2019 The Rosario Project Authors (https://github.com/Omnibus-Type/Rosario)";
 customParameters = (
 {
 name = trademark;
@@ -65,12 +62,8 @@ value = (
 );
 },
 {
-name = description;
-value = "Copyright (c) 2019, Omnibus-Type (www.omnibus-type.com | omnibus.type@gmail.com)";
-},
-{
 name = license;
-value = "This Font Software is licensed under the SIL Open Font License Version 1.1. ";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
 },
 {
 name = licenseURL;
@@ -89,26 +82,12 @@ name = "Use Typo Metrics";
 value = 1;
 },
 {
-name = panose;
+name = Axes;
 value = (
-2,
-12,
-5,
-2,
-3,
-3,
-2,
-2,
-2,
-3
-);
-},
 {
-name = "Family Alignment Zones";
-value = (
-"{724, 20}",
-"{490, 20}",
-"{0, -12}"
+Name = Weight;
+Tag = wght;
+}
 );
 }
 );
@@ -720,12 +699,20 @@ ascender = 948;
 capHeight = 728;
 customParameters = (
 {
+name = underlineThickness;
+value = 62;
+},
+{
+name = underlinePosition;
+value = -200;
+},
+{
 name = typoAscender;
-value = 948;
+value = 977;
 },
 {
 name = typoDescender;
-value = -230;
+value = -235;
 },
 {
 name = typoLineGap;
@@ -733,27 +720,23 @@ value = 0;
 },
 {
 name = winAscent;
-value = 948;
+value = 1167;
 },
 {
 name = winDescent;
-value = 230;
+value = 292;
 },
 {
 name = hheaAscender;
-value = 948;
+value = 977;
 },
 {
 name = hheaDescender;
-value = -230;
+value = -235;
 },
 {
-name = underlineThickness;
-value = 62;
-},
-{
-name = underlinePosition;
-value = -200;
+name = hheaLineGap;
+value = 0;
 }
 );
 descender = -230;
@@ -787,12 +770,20 @@ ascender = 948;
 capHeight = 732;
 customParameters = (
 {
+name = underlineThickness;
+value = 95;
+},
+{
+name = underlinePosition;
+value = -200;
+},
+{
 name = typoAscender;
-value = 968;
+value = 977;
 },
 {
 name = typoDescender;
-value = -230;
+value = -235;
 },
 {
 name = typoLineGap;
@@ -800,27 +791,23 @@ value = 0;
 },
 {
 name = winAscent;
-value = 968;
+value = 1167;
 },
 {
 name = winDescent;
-value = 230;
+value = 292;
 },
 {
 name = hheaAscender;
-value = 968;
+value = 977;
 },
 {
 name = hheaDescender;
-value = -230;
+value = -235;
 },
 {
-name = underlineThickness;
-value = 95;
-},
-{
-name = underlinePosition;
-value = -200;
+name = hheaLineGap;
+value = 0;
 }
 );
 descender = -230;
@@ -50773,5 +50760,5 @@ manufacturer = "Omnibus Type";
 manufacturerURL = "http://www.omnibus-type.com";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 5;
+versionMinor = 100;
 }

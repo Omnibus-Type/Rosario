@@ -1,8 +1,5 @@
 {
-.appVersion = "1216";
-DisplayStrings = (
-"/Kcommaaccent"
-);
+.appVersion = "1192";
 classes = (
 {
 automatic = 1;
@@ -49,11 +46,11 @@ nine.numr";
 name = numr;
 }
 );
-copyright = "Copyright (c) 2019, The Rosario Project Authors (https://github.com/Omnibus-Type/Rosario)";
+copyright = "Copyright 2019 The Rosario Project Authors (https://github.com/Omnibus-Type/Rosario)";
 customParameters = (
 {
 name = trademark;
-value = "Rosario Bold is a trademark of Omnibus-Type.";
+value = "Rosario is a trademark of Omnibus-Type.";
 },
 {
 name = vendorID;
@@ -65,12 +62,8 @@ value = (
 );
 },
 {
-name = description;
-value = "Copyright (c) 2019, Omnibus-Type (www.omnibus-type.com | omnibus.type@gmail.com)";
-},
-{
 name = license;
-value = "This Font Software is licensed under the SIL Open Font License Version 1.1. ";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
 },
 {
 name = licenseURL;
@@ -89,30 +82,16 @@ name = "Use Typo Metrics";
 value = 1;
 },
 {
-name = panose;
+name = Axes;
 value = (
-2,
-12,
-5,
-2,
-3,
-3,
-2,
-9,
-2,
-3
-);
-},
 {
-name = "Family Alignment Zones";
-value = (
-"{724, 20}",
-"{490, 20}",
-"{0, -12}"
+Name = Weight;
+Tag = wght;
+}
 );
 }
 );
-date = "2018-11-01 01:23:17 +0000";
+date = "2018-11-01 01:19:08 +0000";
 designer = "Hector Gatti";
 designerURL = "http://www.gattistudio.com.ar";
 disablesNiceNames = 1;
@@ -722,7 +701,7 @@ custom = Italic;
 customParameters = (
 {
 name = typoAscender;
-value = 948;
+value = 977;
 },
 {
 name = typoDescender;
@@ -734,19 +713,23 @@ value = 0;
 },
 {
 name = winAscent;
-value = 948;
+value = 1167;
 },
 {
 name = winDescent;
-value = 235;
+value = 292;
 },
 {
 name = hheaAscender;
-value = 948;
+value = 977;
 },
 {
 name = hheaDescender;
 value = -235;
+},
+{
+name = hheaLineGap;
+value = 0;
 },
 {
 name = underlineThickness;
@@ -789,12 +772,20 @@ ascender = 948;
 capHeight = 732;
 customParameters = (
 {
+name = underlineThickness;
+value = 95;
+},
+{
+name = underlinePosition;
+value = -200;
+},
+{
 name = typoAscender;
 value = 977;
 },
 {
 name = typoDescender;
-value = -231;
+value = -235;
 },
 {
 name = typoLineGap;
@@ -802,11 +793,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 977;
+value = 1167;
 },
 {
 name = winDescent;
-value = 231;
+value = 292;
 },
 {
 name = hheaAscender;
@@ -814,15 +805,11 @@ value = 977;
 },
 {
 name = hheaDescender;
-value = -231;
+value = -235;
 },
 {
-name = underlineThickness;
-value = 95;
-},
-{
-name = underlinePosition;
-value = -200;
+name = hheaLineGap;
+value = 0;
 }
 );
 descender = -235;
@@ -33802,11 +33789,11 @@ glyphname = CR;
 layers = (
 {
 layerId = "C7717117-F750-4912-BA39-B64C3F969EBE";
-width = 600;
+width = 234;
 },
 {
 layerId = "38588886-3B3E-4A1D-B58B-01CA69B4ACA2";
-width = 600;
+width = 234;
 }
 );
 unicode = 000D;
@@ -49713,13 +49700,14 @@ glyphname = NULL;
 layers = (
 {
 layerId = "C7717117-F750-4912-BA39-B64C3F969EBE";
-width = 600;
+width = 0;
 },
 {
 layerId = "38588886-3B3E-4A1D-B58B-01CA69B4ACA2";
-width = 600;
+width = 0;
 }
 );
+unicode = 0000;
 }
 );
 instances = (
@@ -49729,6 +49717,8 @@ instanceInterpolations = {
 "38588886-3B3E-4A1D-B58B-01CA69B4ACA2" = -0.58824;
 "C7717117-F750-4912-BA39-B64C3F969EBE" = 1.58824;
 };
+isItalic = 1;
+linkStyle = Light;
 name = "Light Italic";
 weightClass = Light;
 },
@@ -49747,6 +49737,8 @@ instanceInterpolations = {
 "38588886-3B3E-4A1D-B58B-01CA69B4ACA2" = 0.47059;
 "C7717117-F750-4912-BA39-B64C3F969EBE" = 0.52941;
 };
+isItalic = 1;
+linkStyle = SemiBold;
 name = "SemiBold Italic";
 weightClass = SemiBold;
 },
@@ -56262,5 +56254,5 @@ manufacturer = "Omnibus Type";
 manufacturerURL = "http://www.omnibus-type.com";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 5;
+versionMinor = 100;
 }

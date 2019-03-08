@@ -45,6 +45,19 @@ Héctor Gatti. This is a new typeface of classic proportions,
 subtle contrast and soft endings. Carefully produced, 
 elegant, ideal for magazines and academic journals.
 
+### Building the fonts
+
+Fonts are built using [fontmake](https://github.com/googlei18n/fontmake) and [gftools](https://github.com/googlefonts/gftools). Execute the following commands in a CLI on Mac or Unix.
+
+```
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+cd sources
+sh build.sh
+
+```
+
 ### Rosario is a typeface family that supports Unicode language range: 
 
 * Basic Latin 			U+0020-U+007E
@@ -52,6 +65,10 @@ elegant, ideal for magazines and academic journals.
 
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
+
+**8 March (m4rc1e) 2019 Rosario v1.100**
+- Variable font build chain added
+
 
 **31 October (Omnibus-Type) 2018 Rosario v1.005**
 - New weights: light, light italic, semibold and semibold italic
