@@ -1,15 +1,11 @@
 # Rosario
 
-**Omnibus-Type**  
-*SIL Open Font License, 1.1*
+**Gatti, Omnibus-Type Team & Adobe Fonts**
+*SIL Open Font License 1.1,*
+*8 fonts, 844 glyphs each variant.*
+*Letras Latinas 2004*
 
-[Omnibus Type](http://omnibus-type.com/) have been proud since Rosario 
-was presented in 2011 as a new typeface of classic proportions, subtle 
-contrast and weak endings. Carefully produced, elegant,
-ideal for magazines and academic journals. Rosario is the name of the city of
-the designer, Héctor Gatti. Rosario was initially developed for private
-use in 2003 and improved its hinting and other technical optimizations by 
-Adobe TypeKit in May 2013.
+Rosario is a singular typeface with 4 weight variants, plus matching italics. Its grace lies in the classic proportions. Its weak endings make it subtle, yet dynamic. Named after a crowded city, it is suitable for diverse publishing contexts, such as popular magazines, poetry books, illustrated editions and academic journals. It was designed by Héctor Gatti initially for private use, later on developed by the Omnibus-Type Team, and optimized by Adobe Fonts.
 
 ![Sample of Rosario.](sources/Rosario-01.png "Rosario")
 ![Sample of Rosario.](sources/Rosario-02.png "Rosario")
