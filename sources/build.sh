@@ -2,6 +2,7 @@
 set -e
 
 
+mkdir -p ../fonts ../fonts/ttf ../fonts/otf
 echo "Generating Static fonts"
 fontmake -g Rosario.glyphs -i -o ttf --output-dir ../fonts/ttf/
 fontmake -g Rosario_Italic.glyphs -i -o ttf --output-dir ../fonts/ttf/
@@ -9,8 +10,8 @@ fontmake -g Rosario.glyphs -i -o otf --output-dir ../fonts/otf/
 fontmake -g Rosario_Italic.glyphs -i -o otf --output-dir ../fonts/otf/
 
 echo "Generating VFs"
-fontmake -g Rosario.glyphs -o variable --output-path ../fonts/ttf/Rosario-Roman-VF.ttf
-fontmake -g Rosario_Italic.glyphs -o variable --output-path ../fonts/ttf/Rosario-Italic-VF.ttf
+fontmake -g Rosario.glyphs -o variable --output-path ../fonts/ttf/Rosario[wght].ttf
+fontmake -g Rosario_Italic.glyphs -o variable --output-path ../fonts/ttf/Rosario-Italic[wght].ttf
 
 rm -rf master_ufo/ instance_ufo/
 
@@ -25,7 +26,7 @@ do
 done
 
 echo "Post processing VFs"
-vfs=$(ls ../fonts/ttf/*-VF.ttf)
+vfs=$(ls ../fonts/ttf/*\[*\]*.ttf)
 for vf in $vfs
 do
 	gftools fix-dsig -f $vf;

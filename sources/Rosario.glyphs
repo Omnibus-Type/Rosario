@@ -1,5 +1,8 @@
 {
-.appVersion = "1192";
+.appVersion = "1230";
+DisplayStrings = (
+"\015 "
+);
 classes = (
 {
 automatic = 1;
@@ -754,6 +757,7 @@ verticalStems = (
 83,
 95
 );
+weight = Light;
 weightValue = 82;
 widthValue = 5;
 xHeight = 497;
@@ -31181,14 +31185,14 @@ glyphname = CR;
 layers = (
 {
 layerId = "42DF98DF-AAA4-4B66-9FB7-E08D57D544AF";
-width = 600;
+width = 230;
 },
 {
 layerId = "0AB1FC3A-51B3-4F8E-BD9F-BEF828131012";
 width = 600;
 }
 );
-note = CR;
+unicode = 000D;
 },
 {
 glyphname = .notdef;
@@ -50760,5 +50764,5 @@ manufacturer = "Omnibus Type";
 manufacturerURL = "http://www.omnibus-type.com";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 100;
+versionMinor = 101;
 }
