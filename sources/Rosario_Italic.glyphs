@@ -1,5 +1,5 @@
 {
-.appVersion = "1192";
+.appVersion = "1230";
 classes = (
 {
 automatic = 1;
@@ -697,7 +697,6 @@ alignmentZones = (
 );
 ascender = 948;
 capHeight = 724;
-custom = Italic;
 customParameters = (
 {
 name = typoAscender;
@@ -756,6 +755,7 @@ verticalStems = (
 82,
 90
 );
+weight = Light;
 weightValue = 80;
 widthValue = 5;
 xHeight = 490;
@@ -56254,5 +56254,5 @@ manufacturer = "Omnibus Type";
 manufacturerURL = "http://www.omnibus-type.com";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 100;
+versionMinor = 101;
 }
