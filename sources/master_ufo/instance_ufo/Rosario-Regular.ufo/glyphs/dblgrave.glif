@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgrave" format="2">
+  <advance width="380"/>
+  <anchor x="257" y="497" name="_top"/>
+  <outline>
+    <contour>
+      <point x="279" y="733" type="line"/>
+      <point x="161" y="733" type="line"/>
+      <point x="298" y="581" type="line"/>
+      <point x="360" y="581" type="line"/>
+    </contour>
+    <contour>
+      <point x="137" y="733" type="line"/>
+      <point x="20" y="733" type="line"/>
+      <point x="157" y="581" type="line"/>
+      <point x="218" y="581" type="line"/>
+    </contour>
+  </outline>
+</glyph>

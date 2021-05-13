@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal" format="2">
+  <advance width="630.0"/>
+  <unicode hex="003D"/>
+  <note>
+equal
+</note>
+  <outline>
+    <contour>
+      <point x="86.0" y="375.5" type="line"/>
+      <point x="76.41176470588235" y="304.55882352941177" type="line"/>
+      <point x="575.2647058823529" y="304.55882352941177" type="line"/>
+      <point x="584.8529411764706" y="375.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="59.85294117647059" y="185.91176470588235" type="line"/>
+      <point x="49.411764705882355" y="114.11764705882354" type="line"/>
+      <point x="548.2647058823529" y="114.11764705882354" type="line"/>
+      <point x="558.7058823529412" y="185.91176470588235" type="line"/>
+    </contour>
+  </outline>
+</glyph>

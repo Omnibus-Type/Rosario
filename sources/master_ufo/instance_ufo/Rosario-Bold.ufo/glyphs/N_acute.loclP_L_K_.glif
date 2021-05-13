@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nacute.loclPLK" format="2">
+  <advance width="714"/>
+  <anchor x="364" y="0" name="bottom"/>
+  <anchor x="360" y="732" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="acute.loclPLK.case.comb" xOffset="533"/>
+  </outline>
+</glyph>

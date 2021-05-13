@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash" format="2">
+  <advance width="231.23529411764707"/>
+  <unicode hex="0142"/>
+  <note>
+lslash
+</note>
+  <anchor x="78.82352941176471" y="0.0" name="bottom"/>
+  <anchor x="133.8235294117647" y="391.0" name="center"/>
+  <anchor x="177.8235294117647" y="728.0" name="top"/>
+  <anchor x="58.05882352941177" y="524.7647058823529" name="topright"/>
+  <outline>
+    <component base="l"/>
+    <component base="slashshortcomb" xOffset="-5.588235294117647" yOffset="38.470588235294116"/>
+  </outline>
+</glyph>

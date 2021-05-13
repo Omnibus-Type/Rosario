@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dong" format="2">
+  <advance width="596"/>
+  <unicode hex="20AB"/>
+  <anchor x="422" y="636" name="center"/>
+  <anchor x="372" y="531" name="topright"/>
+  <outline>
+    <contour>
+      <point x="39" y="-82" type="line"/>
+      <point x="26" y="-164" type="line"/>
+      <point x="458" y="-164" type="line"/>
+      <point x="471" y="-82" type="line"/>
+    </contour>
+    <component base="dcroat" xOffset="14"/>
+  </outline>
+</glyph>

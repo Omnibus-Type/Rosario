@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.tosf.zero" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="166.5" y="78.20588235294117" type="line"/>
+      <point x="214.0" y="42.029411764705884" type="line"/>
+      <point x="453.05882352941177" y="427.3235294117647" type="line"/>
+      <point x="404.55882352941177" y="461.6470588235294" type="line"/>
+    </contour>
+    <component base="zero" xOffset="29.61764705882353"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>zero</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

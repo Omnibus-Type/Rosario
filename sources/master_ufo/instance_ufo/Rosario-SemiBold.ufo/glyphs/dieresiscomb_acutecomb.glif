@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb_acutecomb" format="2">
+  <anchor x="-158.10526315789474" y="497.0" name="_top"/>
+  <outline>
+    <component base="dieresisacute" xOffset="-310.7368421052632"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dieresisacute</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

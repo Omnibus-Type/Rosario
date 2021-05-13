@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ijacute" format="2">
+  <advance width="456"/>
+  <outline>
+    <contour>
+      <point x="128" y="0" type="line"/>
+      <point x="128" y="58" type="line"/>
+      <point x="186" y="490" type="line"/>
+      <point x="98" y="490" type="line"/>
+      <point x="98" y="433" type="line"/>
+      <point x="40" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="416" y="490" type="line"/>
+      <point x="329" y="490" type="line"/>
+      <point x="329" y="433" type="line"/>
+      <point x="271" y="13" type="line" smooth="yes"/>
+      <point x="261" y="-59"/>
+      <point x="244" y="-150"/>
+      <point x="166" y="-188" type="curve"/>
+      <point x="174" y="-228" type="line"/>
+      <point x="300" y="-211"/>
+      <point x="338" y="-77"/>
+      <point x="352" y="25" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="231" y="733" type="line"/>
+      <point x="113" y="581" type="line"/>
+      <point x="191" y="581" type="line"/>
+      <point x="353" y="733" type="line"/>
+    </contour>
+    <contour>
+      <point x="459" y="733" type="line"/>
+      <point x="341" y="581" type="line"/>
+      <point x="419" y="581" type="line"/>
+      <point x="581" y="733" type="line"/>
+    </contour>
+  </outline>
+</glyph>

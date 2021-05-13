@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringacute.case" format="2">
+  <advance width="282"/>
+  <anchor x="141" y="728" name="_top"/>
+  <outline>
+    <contour>
+      <point x="141" y="989" type="curve" smooth="yes"/>
+      <point x="87" y="989"/>
+      <point x="42" y="943"/>
+      <point x="42" y="889" type="curve" smooth="yes"/>
+      <point x="42" y="835"/>
+      <point x="87" y="790"/>
+      <point x="141" y="790" type="curve" smooth="yes"/>
+      <point x="195" y="790"/>
+      <point x="240" y="835"/>
+      <point x="240" y="889" type="curve" smooth="yes"/>
+      <point x="240" y="944"/>
+      <point x="196" y="989"/>
+    </contour>
+    <contour>
+      <point x="141" y="937" type="curve" smooth="yes"/>
+      <point x="167" y="937"/>
+      <point x="189" y="915"/>
+      <point x="189" y="889" type="curve" smooth="yes"/>
+      <point x="189" y="863"/>
+      <point x="167" y="841"/>
+      <point x="141" y="841" type="curve" smooth="yes"/>
+      <point x="114" y="841"/>
+      <point x="93" y="862"/>
+      <point x="93" y="889" type="curve" smooth="yes"/>
+      <point x="93" y="916"/>
+      <point x="114" y="937"/>
+    </contour>
+    <contour>
+      <point x="191" y="1139" type="line"/>
+      <point x="115" y="1028" type="line"/>
+      <point x="168" y="1028" type="line"/>
+      <point x="283" y="1139" type="line"/>
+    </contour>
+  </outline>
+</glyph>

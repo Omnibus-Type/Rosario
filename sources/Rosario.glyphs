@@ -1,5 +1,8 @@
 {
-.appVersion = "1192";
+.appVersion = "1356";
+DisplayStrings = (
+"0123456"
+);
 classes = (
 {
 automatic = 1;
@@ -89,9 +92,32 @@ Name = Weight;
 Tag = wght;
 }
 );
+},
+{
+name = "Variable Font Family Name";
+value = Rosario;
+},
+{
+name = "Variable Font File Name";
+value = Rosario;
+},
+{
+name = "Axis Mappings";
+value = {
+wght = {
+400 = 82;
+500 = 89;
+600 = 98;
+700 = 120;
+};
+};
+},
+{
+name = "Variable Font Origin";
+value = "42DF98DF-AAA4-4B66-9FB7-E08D57D544AF";
 }
 );
-date = "2018-11-01 01:19:08 +0000";
+date = "2021-05-13 15:24:59 +0000";
 designer = "Hector Gatti";
 designerURL = "http://www.gattistudio.com.ar";
 disablesNiceNames = 1;
@@ -47508,21 +47534,21 @@ width = 600;
 );
 instances = (
 {
-interpolationWeight = 62;
-instanceInterpolations = {
-"0AB1FC3A-51B3-4F8E-BD9F-BEF828131012" = -0.52632;
-"42DF98DF-AAA4-4B66-9FB7-E08D57D544AF" = 1.52632;
-};
-name = Light;
-weightClass = Light;
-},
-{
 interpolationWeight = 82;
 interpolationWidth = 5;
 instanceInterpolations = {
 "42DF98DF-AAA4-4B66-9FB7-E08D57D544AF" = 1;
 };
 name = Regular;
+},
+{
+interpolationWeight = 89;
+instanceInterpolations = {
+"0AB1FC3A-51B3-4F8E-BD9F-BEF828131012" = 0.18421;
+"42DF98DF-AAA4-4B66-9FB7-E08D57D544AF" = 0.81579;
+};
+name = Medium;
+weightClass = Medium;
 },
 {
 interpolationWeight = 98;
@@ -50759,6 +50785,9 @@ four = -20;
 manufacturer = "Omnibus Type";
 manufacturerURL = "http://www.omnibus-type.com";
 unitsPerEm = 1000;
+userData = {
+LWPluginVersion = "1429";
+};
 versionMajor = 1;
-versionMinor = 100;
+versionMinor = 200;
 }

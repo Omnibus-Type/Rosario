@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udieresisacute" format="2">
+  <advance width="707.0"/>
+  <unicode hex="01D7"/>
+  <anchor x="353.8421052631579" y="0.0" name="bottom"/>
+  <anchor x="422.3421052631579" y="0.0" name="ogonek"/>
+  <anchor x="360.2894736842105" y="728.7368421052631" name="top"/>
+  <anchor x="460.6578947368421" y="743.921052631579" name="topright"/>
+  <outline>
+    <component base="U"/>
+    <component base="dieresiscomb_acutecomb.case" xOffset="503.44736842105266"/>
+  </outline>
+</glyph>

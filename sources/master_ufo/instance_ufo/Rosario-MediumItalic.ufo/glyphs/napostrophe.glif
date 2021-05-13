@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="napostrophe" format="2">
+  <advance width="493.70588235294116"/>
+  <unicode hex="0149"/>
+  <anchor x="227.55882352941177" y="0.0" name="bottom"/>
+  <anchor x="290.55882352941177" y="491.02941176470586" name="top"/>
+  <anchor x="108.55882352941177" y="491.02941176470586" name="topright"/>
+  <outline>
+    <component base="n"/>
+    <component base="apostrophecomb" xOffset="165.55882352941177"/>
+  </outline>
+</glyph>

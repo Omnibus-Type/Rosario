@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Acircumflex" format="2">
+  <advance width="631.0"/>
+  <unicode hex="00C2"/>
+  <note>
+Acircumflex
+</note>
+  <anchor x="310.1842105263158" y="0.0" name="bottom"/>
+  <anchor x="537.8684210526316" y="0.0" name="ogonek"/>
+  <anchor x="315.07894736842104" y="728.7368421052631" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="circumflexcomb.case" xOffset="463.07894736842104"/>
+  </outline>
+</glyph>

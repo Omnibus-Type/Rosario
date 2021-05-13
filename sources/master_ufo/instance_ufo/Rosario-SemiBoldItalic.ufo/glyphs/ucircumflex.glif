@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ucircumflex" format="2">
+  <advance width="504.8235294117647"/>
+  <unicode hex="00FB"/>
+  <note>
+ucircumflex
+</note>
+  <anchor x="200.1764705882353" y="0.0" name="bottom"/>
+  <anchor x="416.2352941176471" y="0.0" name="ogonek"/>
+  <anchor x="270.8235294117647" y="493.29411764705884" name="top"/>
+  <anchor x="315.6470588235294" y="504.8235294117647" name="topright"/>
+  <outline>
+    <component base="u"/>
+    <component base="circumflexcomb" xOffset="383.29411764705884"/>
+  </outline>
+</glyph>

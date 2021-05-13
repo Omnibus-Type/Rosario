@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aring" format="2">
+  <advance width="494.0"/>
+  <unicode hex="00E5"/>
+  <note>
+aring
+</note>
+  <anchor x="233.68421052631578" y="0.0" name="bottom"/>
+  <anchor x="419.7368421052632" y="0.0" name="ogonek"/>
+  <anchor x="244.52631578947367" y="497.0" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="ringcomb" xOffset="385.94736842105266"/>
+  </outline>
+</glyph>

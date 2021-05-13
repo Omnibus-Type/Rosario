@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronbelow" format="2">
+  <advance width="304"/>
+  <anchor x="152" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="0" y="-91" type="line"/>
+      <point x="0" y="-155" type="line"/>
+      <point x="304" y="-155" type="line"/>
+      <point x="304" y="-91" type="line"/>
+    </contour>
+  </outline>
+</glyph>

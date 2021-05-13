@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhungarumlaut" format="2">
+  <advance width="638"/>
+  <unicode hex="0170"/>
+  <anchor x="270" y="0" name="bottom"/>
+  <anchor x="336" y="0" name="ogonek"/>
+  <anchor x="379" y="724" name="top"/>
+  <anchor x="483" y="739" name="topright"/>
+  <outline>
+    <component base="U"/>
+    <component base="hungarumlautcomb.case" xOffset="568"/>
+  </outline>
+</glyph>

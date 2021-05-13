@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_hookabovecomb" format="2">
+  <anchor x="-112.8529411764706" y="491.02941176470586" name="_top"/>
+  <outline>
+    <component base="circumflexhook" xOffset="-291.29411764705884"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>circumflexhook</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

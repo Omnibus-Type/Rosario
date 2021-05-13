@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_tildecomb.case" format="2">
+  <anchor x="-72.76470588235294" y="725.1764705882352" name="_top"/>
+  <outline>
+    <component base="brevetilde.case" xOffset="-283.0882352941176"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>brevetilde.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

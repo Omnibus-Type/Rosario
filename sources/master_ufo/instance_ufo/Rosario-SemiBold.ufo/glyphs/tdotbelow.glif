@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tdotbelow" format="2">
+  <advance width="327.0"/>
+  <unicode hex="1E6D"/>
+  <anchor x="175.78947368421052" y="0.0" name="bottom"/>
+  <anchor x="141.78947368421052" y="264.0" name="center"/>
+  <anchor x="64.78947368421052" y="497.0" name="topright"/>
+  <outline>
+    <component base="t"/>
+    <component base="dotbelowcomb" xOffset="319.8421052631579"/>
+  </outline>
+</glyph>

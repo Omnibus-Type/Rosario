@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_gravecomb.case" format="2">
+  <anchor x="-141.8421052631579" y="728.7368421052631" name="_top"/>
+  <outline>
+    <component base="brevegrave.case" xOffset="-283.05263157894734"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>brevegrave.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

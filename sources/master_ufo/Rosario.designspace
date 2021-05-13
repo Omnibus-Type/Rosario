@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400">
+      <map input="400" output="82"/>
+      <map input="500" output="89"/>
+      <map input="600" output="98"/>
+      <map input="700" output="120"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="Rosario-Regular.ufo" name="Rosario Regular" familyname="Rosario" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="82"/>
+      </location>
+    </source>
+    <source filename="Rosario-Bold.ufo" name="Rosario Bold" familyname="Rosario" stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="120"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Rosario Regular" familyname="Rosario" stylename="Regular" filename="instance_ufo/Rosario-Regular.ufo" stylemapfamilyname="Rosario" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="82"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Rosario Medium" familyname="Rosario" stylename="Medium" filename="instance_ufo/Rosario-Medium.ufo" stylemapfamilyname="Rosario Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="89"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Rosario SemiBold" familyname="Rosario" stylename="SemiBold" filename="instance_ufo/Rosario-SemiBold.ufo" stylemapfamilyname="Rosario SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="98"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Rosario Bold" familyname="Rosario" stylename="Bold" filename="instance_ufo/Rosario-Bold.ufo" stylemapfamilyname="Rosario" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="120"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>LWPluginVersion</key>
+      <string>1429</string>
+    </dict>
+  </lib>
+</designspace>

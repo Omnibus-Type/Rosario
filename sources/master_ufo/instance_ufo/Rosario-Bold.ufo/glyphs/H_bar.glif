@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar" format="2">
+  <advance width="714"/>
+  <unicode hex="0126"/>
+  <anchor x="354" y="0" name="bottom"/>
+  <anchor x="360" y="558" name="center"/>
+  <anchor x="356" y="732" name="top"/>
+  <outline>
+    <component base="H"/>
+    <component base="baraccentlongcomb" xOffset="756" yOffset="245"/>
+  </outline>
+</glyph>

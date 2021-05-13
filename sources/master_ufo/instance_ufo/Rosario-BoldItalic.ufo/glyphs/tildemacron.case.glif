@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildemacron.case" format="2">
+  <advance width="358"/>
+  <anchor x="249" y="732" name="_top"/>
+  <outline>
+    <contour>
+      <point x="443" y="906" type="curve"/>
+      <point x="379" y="906" type="line"/>
+      <point x="375" y="886"/>
+      <point x="350" y="876"/>
+      <point x="333" y="876" type="curve" smooth="yes"/>
+      <point x="295" y="876"/>
+      <point x="264" y="916"/>
+      <point x="209" y="916" type="curve" smooth="yes"/>
+      <point x="141" y="916"/>
+      <point x="95" y="863"/>
+      <point x="86" y="799" type="curve"/>
+      <point x="151" y="799" type="line"/>
+      <point x="154" y="819"/>
+      <point x="179" y="829"/>
+      <point x="196" y="829" type="curve" smooth="yes"/>
+      <point x="234" y="829"/>
+      <point x="265" y="789"/>
+      <point x="320" y="789" type="curve" smooth="yes"/>
+      <point x="388" y="789"/>
+      <point x="434" y="842"/>
+    </contour>
+    <contour>
+      <point x="132" y="1030" type="line"/>
+      <point x="122" y="956" type="line"/>
+      <point x="437" y="956" type="line"/>
+      <point x="447" y="1030" type="line"/>
+    </contour>
+  </outline>
+</glyph>

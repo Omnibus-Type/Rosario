@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_hookcomb.case" format="2">
+  <anchor x="-76.17647058823529" y="727.7647058823529" name="_top"/>
+  <outline>
+    <component base="brevehook.case" xOffset="-289.3529411764706"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>brevehook.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

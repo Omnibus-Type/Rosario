@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eth" format="2">
+  <advance width="699"/>
+  <unicode hex="00D0"/>
+  <note>
+Eth
+</note>
+  <anchor x="195" y="368" name="center"/>
+  <anchor x="340" y="728" name="top"/>
+  <outline>
+    <component base="D"/>
+    <component base="baraccentcomb" xOffset="456" yOffset="52"/>
+  </outline>
+</glyph>

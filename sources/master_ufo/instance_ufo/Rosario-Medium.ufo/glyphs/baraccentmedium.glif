@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="baraccentmedium" format="2">
+  <advance width="689.1578947368421"/>
+  <anchor x="344.89473684210526" y="315.44736842105266" name="_center"/>
+  <outline>
+    <contour>
+      <point x="40.0" y="350.10526315789474" type="line"/>
+      <point x="40.0" y="281.42105263157896" type="line"/>
+      <point x="649.1578947368421" y="281.42105263157896" type="line"/>
+      <point x="649.1578947368421" y="350.10526315789474" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aeacute" format="2">
+  <advance width="769.1176470588235"/>
+  <unicode hex="01FD"/>
+  <anchor x="441.52941176470586" y="493.29411764705884" name="top"/>
+  <outline>
+    <component base="ae"/>
+    <component base="acutecomb" xOffset="614.9411764705883"/>
+  </outline>
+</glyph>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb.case" format="2">
+  <outline>
+    <component base="breve.case" xOffset="-288.2631578947368"/>
+  </outline>
+</glyph>

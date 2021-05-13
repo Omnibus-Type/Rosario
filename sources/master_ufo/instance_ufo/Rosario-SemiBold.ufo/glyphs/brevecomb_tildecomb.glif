@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_tildecomb" format="2">
+  <anchor x="-148.68421052631578" y="497.0" name="_top"/>
+  <outline>
+    <component base="brevetilde" xOffset="-297.5263157894737"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>brevetilde</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

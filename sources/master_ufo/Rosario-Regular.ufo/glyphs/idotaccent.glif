@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idotaccent" format="2">
+  <advance width="252"/>
+  <anchor x="125" y="0" name="bottom"/>
+  <anchor x="125" y="497" name="top"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="dotaccentcomb" xOffset="263"/>
+  </outline>
+</glyph>

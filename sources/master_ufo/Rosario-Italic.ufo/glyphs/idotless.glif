@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idotless" format="2">
+  <advance width="227"/>
+  <unicode hex="0131"/>
+  <note>
+dotlessi
+</note>
+  <anchor x="84" y="0" name="bottom"/>
+  <anchor x="143" y="490" name="top"/>
+  <outline>
+    <contour>
+      <point x="128" y="0" type="line"/>
+      <point x="128" y="58" type="line"/>
+      <point x="186" y="490" type="line"/>
+      <point x="98" y="490" type="line"/>
+      <point x="98" y="433" type="line"/>
+      <point x="40" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

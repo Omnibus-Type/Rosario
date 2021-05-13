@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ocaron" format="2">
+  <advance width="737.0"/>
+  <unicode hex="01D1"/>
+  <anchor x="383.0" y="0.0" name="bottom"/>
+  <anchor x="369.0" y="363.0" name="center"/>
+  <anchor x="432.6842105263158" y="0.0" name="ogonek"/>
+  <anchor x="369.0" y="729.6842105263158" name="top"/>
+  <anchor x="401.0" y="729.6842105263158" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="caroncomb.case" xOffset="517.0"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zacute.loclPLK" format="2">
+  <advance width="433"/>
+  <anchor x="255" y="490" name="top"/>
+  <outline>
+    <component base="z"/>
+    <component base="acute.loclPLK.comb" xOffset="365"/>
+  </outline>
+</glyph>

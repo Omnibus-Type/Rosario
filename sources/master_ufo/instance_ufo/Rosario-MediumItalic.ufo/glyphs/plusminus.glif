@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plusminus" format="2">
+  <advance width="632.0"/>
+  <unicode hex="00B1"/>
+  <note>
+plusminus
+</note>
+  <outline>
+    <contour>
+      <point x="330.9117647058824" y="85.88235294117646" type="line"/>
+      <point x="354.47058823529414" y="253.35294117647058" type="line"/>
+      <point x="568.0" y="253.35294117647058" type="line"/>
+      <point x="578.1470588235294" y="324.70588235294116" type="line"/>
+      <point x="364.61764705882354" y="324.70588235294116" type="line"/>
+      <point x="387.3235294117647" y="491.02941176470586" type="line"/>
+      <point x="314.6764705882353" y="491.02941176470586" type="line"/>
+      <point x="291.97058823529414" y="324.55882352941177" type="line"/>
+      <point x="79.29411764705883" y="324.55882352941177" type="line"/>
+      <point x="69.0" y="253.2058823529412" type="line"/>
+      <point x="281.6764705882353" y="253.2058823529412" type="line"/>
+      <point x="258.2647058823529" y="85.88235294117646" type="line"/>
+    </contour>
+    <contour>
+      <point x="43.14705882352941" y="70.6470588235294" type="line"/>
+      <point x="33.705882352941174" y="0.14705882352941177" type="line"/>
+      <point x="532.5588235294117" y="0.14705882352941177" type="line"/>
+      <point x="542.0" y="70.6470588235294" type="line"/>
+    </contour>
+  </outline>
+</glyph>

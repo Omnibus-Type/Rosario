@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_iacute" format="2">
+  <advance width="546.2631578947369"/>
+  <outline>
+    <contour>
+      <point x="304.10526315789474" y="770.921052631579" type="curve" smooth="yes"/>
+      <point x="169.10526315789474" y="770.921052631579"/>
+      <point x="114.0" y="680.5"/>
+      <point x="97.60526315789474" y="537.7105263157895" type="curve" smooth="yes"/>
+      <point x="92.23684210526316" y="488.36842105263156"/>
+      <point x="48.131578947368425" y="489.63157894736844"/>
+      <point x="16.86842105263158" y="487.1842105263158" type="curve"/>
+      <point x="16.86842105263158" y="431.6842105263158" type="line"/>
+      <point x="93.15789473684211" y="431.6842105263158" type="line"/>
+      <point x="93.15789473684211" y="-0.18421052631578946" type="line"/>
+      <point x="182.1578947368421" y="-0.18421052631578946" type="line"/>
+      <point x="182.1578947368421" y="431.6842105263158" type="line"/>
+      <point x="406.05263157894734" y="431.6842105263158" type="line"/>
+      <point x="424.9736842105263" y="497.0" type="line"/>
+      <point x="182.1578947368421" y="497.0" type="line"/>
+      <point x="182.1578947368421" y="593.8421052631579"/>
+      <point x="195.73684210526315" y="705.421052631579"/>
+      <point x="305.36842105263156" y="705.421052631579" type="curve" smooth="yes"/>
+      <point x="326.6578947368421" y="705.421052631579"/>
+      <point x="350.6578947368421" y="698.1315789473684"/>
+      <point x="368.6578947368421" y="686.1315789473684" type="curve"/>
+      <point x="404.42105263157896" y="745.1842105263158" type="line"/>
+      <point x="372.7894736842105" y="763.3684210526316"/>
+      <point x="342.2105263157895" y="770.921052631579"/>
+    </contour>
+    <contour>
+      <point x="374.94736842105266" y="438.92105263157896" type="curve" smooth="yes"/>
+      <point x="374.94736842105266" y="0.0" type="line"/>
+      <point x="464.7631578947368" y="0.0" type="line"/>
+      <point x="464.7631578947368" y="497.0" type="line"/>
+      <point x="363.13157894736844" y="497.0" type="line"/>
+      <point x="364.13157894736844" y="491.1842105263158"/>
+      <point x="374.94736842105266" y="440.92105263157896"/>
+    </contour>
+    <contour>
+      <point x="474.36842105263156" y="733.3684210526316" type="line"/>
+      <point x="375.9736842105263" y="578.9736842105264" type="line"/>
+      <point x="458.57894736842104" y="578.9736842105264" type="line"/>
+      <point x="600.6052631578947" y="733.3684210526316" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>iacute</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udieresismacron" format="2">
+  <advance width="641.0882352941177"/>
+  <unicode hex="01D5"/>
+  <anchor x="271.3235294117647" y="0.0" name="bottom"/>
+  <anchor x="335.2647058823529" y="0.0" name="ogonek"/>
+  <anchor x="380.1764705882353" y="725.1764705882352" name="top"/>
+  <anchor x="479.3235294117647" y="740.3235294117648" name="topright"/>
+  <outline>
+    <component base="U"/>
+    <component base="dieresiscomb_macroncomb.case" xOffset="473.5882352941176"/>
+  </outline>
+</glyph>

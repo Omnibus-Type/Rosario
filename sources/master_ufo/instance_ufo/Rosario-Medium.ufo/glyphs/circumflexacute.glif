@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexacute" format="2">
+  <advance width="291.36842105263156"/>
+  <anchor x="143.3684210526316" y="497.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="143.3684210526316" y="657.6842105263158" type="line"/>
+      <point x="218.8684210526316" y="579.0" type="line"/>
+      <point x="291.36842105263156" y="579.0" type="line"/>
+      <point x="186.6578947368421" y="732.1578947368421" type="line"/>
+      <point x="100.89473684210526" y="732.1578947368421" type="line"/>
+      <point x="0.0" y="579.8157894736842" type="line"/>
+      <point x="70.5" y="579.8157894736842" type="line"/>
+    </contour>
+    <contour>
+      <point x="164.55263157894737" y="886.921052631579" type="line"/>
+      <point x="106.15789473684211" y="772.5263157894736" type="line"/>
+      <point x="178.76315789473685" y="772.5263157894736" type="line"/>
+      <point x="280.7894736842105" y="886.921052631579" type="line"/>
+    </contour>
+  </outline>
+</glyph>

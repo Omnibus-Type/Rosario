@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.lf.zero" format="2">
+  <advance width="613.2631578947369"/>
+  <outline>
+    <contour>
+      <point x="128.05263157894737" y="145.89473684210526" type="line"/>
+      <point x="175.6315789473684" y="91.94736842105263" type="line"/>
+      <point x="482.89473684210526" y="563.2631578947369" type="line"/>
+      <point x="434.1578947368421" y="616.2105263157895" type="line"/>
+    </contour>
+    <component base="zero.lf"/>
+  </outline>
+</glyph>

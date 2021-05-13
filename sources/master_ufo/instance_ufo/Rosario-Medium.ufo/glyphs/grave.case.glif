@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave.case" format="2">
+  <advance width="284.8157894736842"/>
+  <anchor x="210.1578947368421" y="728.7368421052631" name="_top"/>
+  <outline>
+    <contour>
+      <point x="156.42105263157896" y="908.3157894736842" type="line"/>
+      <point x="30.0" y="908.3157894736842" type="line"/>
+      <point x="172.02631578947367" y="774.921052631579" type="line"/>
+      <point x="254.81578947368422" y="774.921052631579" type="line"/>
+    </contour>
+  </outline>
+</glyph>

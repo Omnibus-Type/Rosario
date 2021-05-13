@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb_macroncomb" format="2">
+  <anchor x="-176.18421052631578" y="497.0" name="_top"/>
+  <outline>
+    <component base="tildemacron" xOffset="-357.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>tildemacron</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
