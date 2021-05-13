@@ -3,6 +3,7 @@
       - Rosario-Italic.glyphs
     axisOrder:
       - wght
+      - ital
     familyName: Rosario
     stat:
       Rosario[wght].ttf:
@@ -19,6 +20,13 @@
           value: 600
         - name: Bold
           value: 700
+      - name: Italic
+        tag: ital
+        values:
+        - name: Roman
+          value: 0
+          linkedValue: 1
+          flags: 2
       Rosario-Italic[wght].ttf:
       - name: Weight
         tag: wght
@@ -33,3 +41,8 @@
           value: 600
         - name: Bold
           value: 700
+      - name: Italic
+        tag: ital
+        values:
+        - name: Italic
+          value: 1
