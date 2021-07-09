@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="five.tf" format="2">
-  <advance width="600.0"/>
-  <outline>
-    <component base="five.lf" xOffset="78.60526315789474"/>
-  </outline>
-</glyph>

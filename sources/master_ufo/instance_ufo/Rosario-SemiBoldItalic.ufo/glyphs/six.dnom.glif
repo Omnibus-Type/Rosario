@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="six.dnom" format="2">
-  <advance width="455.0"/>
-  <outline>
-    <component base="sixsuperior" xOffset="-62.0" yOffset="-435.47058823529414"/>
-  </outline>
-</glyph>
