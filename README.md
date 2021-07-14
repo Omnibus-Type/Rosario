@@ -22,11 +22,29 @@ To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
 * Héctor Gatti
 
-### License
+## Building
+
+Fonts are built automatically by GitHub Actions - take a look in the "Actions" tab for the latest build.
+
+If you particularly want to build fonts manually on your own computer, you will need to install the [`yq` utility](https://github.com/mikefarah/yq). On OS X with Homebrew, type `brew install yq`; on Linux, try `snap install yq`; if all else fails, try the instructions on the linked page.
+
+Then:
+
+* `make build` will produce font files.
+* `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
+* `make proof` will generate HTML proof files.
+
+## License
 
 Copyright (c) 2019, Omnibus-Type (www.omnibus-type.com | omnibus.type@gmail.com)
 
-Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at
+http://scripts.sil.org/OFL
+
+## Repository Layout
+
+This font repository structure is inspired by [Unified Font Repository v0.3](https://github.com/unified-font-repository/Unified-Font-Repository), modified for the Google Fonts workflow.
 
 ======
 ## FONTLOG for the Rosario fonts
@@ -40,19 +58,6 @@ Rosario is the name of the city of its type designer,
 Héctor Gatti. This is a new typeface of classic proportions, 
 subtle contrast and soft endings. Carefully produced, 
 elegant, ideal for magazines and academic journals.
-
-### Building the fonts
-
-Fonts are built using [fontmake](https://github.com/googlei18n/fontmake) and [gftools](https://github.com/googlefonts/gftools). Execute the following commands in a CLI on Mac or Unix.
-
-```
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-cd sources
-sh build.sh
-
-```
 
 ### Rosario is a typeface family that supports Unicode language range: 
 
