@@ -1,5 +1,5 @@
 {
-.appVersion = "1352";
+.appVersion = "1342";
 classes = (
 {
 automatic = 1;
@@ -699,10 +699,6 @@ ascender = 948;
 capHeight = 726;
 customParameters = (
 {
-name = underlineThickness;
-value = 45;
-},
-{
 name = underlinePosition;
 value = -200;
 },
@@ -737,6 +733,10 @@ value = -235;
 {
 name = hheaLineGap;
 value = 0;
+},
+{
+name = underlineThickness;
+value = 62;
 }
 );
 descender = -230;
@@ -837,10 +837,6 @@ ascender = 948;
 capHeight = 732;
 customParameters = (
 {
-name = underlineThickness;
-value = 95;
-},
-{
 name = underlinePosition;
 value = -200;
 },
@@ -875,6 +871,10 @@ value = -235;
 {
 name = hheaLineGap;
 value = 0;
+},
+{
+name = underlineThickness;
+value = 62;
 }
 );
 descender = -230;
