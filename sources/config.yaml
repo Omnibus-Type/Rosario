@@ -4,7 +4,6 @@ sources:
 axisOrder:
   - wght
 familyName: "Rosario"
-buildStatic: False
 stat:
     Rosario[wght].ttf:
     - name: Weight
